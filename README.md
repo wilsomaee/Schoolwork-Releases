@@ -19,9 +19,23 @@ Go to **Releases** and download:
 
 `Schoolwork-Setup-2026.08.30.exe`
 
-Windows 10/11 64-bit. No separate .NET install required.
-
 Schoolwork is currently unsigned, so Windows may show an **Unknown Publisher / SmartScreen** warning.
+
+### System Requirements
+
+**Windows**
+
+- Windows 11, 64-bit recommended
+- Windows 10 only where Microsoft still supports the underlying .NET 10 runtime
+- x64 processor
+- No separate .NET installation required
+
+**macOS** — not released yet; a build is in testing
+
+- macOS 14 Sonoma or newer
+- Apple Silicon recommended
+- macOS 15 Sequoia and macOS 26 Tahoe supported
+- No separate .NET installation required
 
 ### Updates
 
