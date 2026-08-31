@@ -30,11 +30,10 @@ Schoolwork is currently unsigned, so Windows may show an **Unknown Publisher / S
 - x64 processor
 - No separate .NET installation required
 
-**macOS** — not released yet; a build is in testing
+**macOS** — not released yet; Apple Silicon build in testing
 
 - macOS 14 Sonoma or newer
-- Apple Silicon recommended
-- macOS 15 Sequoia and macOS 26 Tahoe supported
+- Apple Silicon (M1 or newer)
 - No separate .NET installation required
 
 ### Updates
