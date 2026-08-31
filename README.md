@@ -1,5 +1,15 @@
 # Schoolwork
 
+> **Note for Windows users**
+>
+> Schoolwork isn't signed with a paid commercial certificate yet, so Windows
+> SmartScreen may flag the installer. It isn't malware — Windows just doesn't
+> recognise the publisher yet.
+>
+> To run it: click **More info** on the blue popup, then **Run anyway**.
+>
+> Every release lists a SHA-256 you can check your download against.
+
 Schoolwork is a Windows app for managing classes, assignments, tests, GPA, reminders, and study planning in one place.
 
 ### Features
@@ -18,8 +28,6 @@ Schoolwork is a Windows app for managing classes, assignments, tests, GPA, remin
 Go to **Releases** and download:
 
 `Schoolwork-Setup-2026.08.31.1.exe`
-
-Schoolwork is currently unsigned, so Windows may show an **Unknown Publisher / SmartScreen** warning.
 
 ### System Requirements
 
