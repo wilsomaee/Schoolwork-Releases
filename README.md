@@ -27,7 +27,7 @@ Schoolwork is a Windows app for managing classes, assignments, tests, GPA, remin
 
 Go to **Releases** and download:
 
-`Schoolwork-Setup-2026.08.31.1.exe`
+`Schoolwork-Setup-2026.09.01.exe`
 
 ### System Requirements
 
